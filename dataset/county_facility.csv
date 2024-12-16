@@ -1,0 +1,536 @@
+county,care_facility,n_child_enrolled,n_desired_cap,n_licensed_cap,n_dcf,n_food_program
+ALLEN,child care centers,205,239,280,3,4
+ALLEN,licesned family/group,196,224,258,0,0
+ALLEN,head start,0,0,0,8,21
+ALLEN,preschool,0,0,0,0,0
+ALLEN,school age program,0,0,0,0,0
+ANDERSON,child care centers,27,69,69,1,0
+ANDERSON,licesned family/group,90,105,120,0,1
+ANDERSON,head start,18,18,20,4,8
+ANDERSON,preschool,0,0,0,0,0
+ANDERSON,school age program,0,0,0,0,0
+ATCHISON,child care centers,254,236,258,2,2
+ATCHISON,licesned family/group,80,94,114,0,1
+ATCHISON,head start,60,60,60,5,9
+ATCHISON,preschool,3,24,24,0,0
+ATCHISON,school age program,91,90,90,0,1
+BARBER,child care centers,44,24,24,0,0
+BARBER,licesned family/group,94,122,128,0,0
+BARBER,head start,0,0,0,5,7
+BARBER,preschool,20,20,20,0,0
+BARBER,school age program,0,0,0,0,0
+BARTON,child care centers,217,267,296,6,3
+BARTON,licesned family/group,405,391,480,0,0
+BARTON,head start,0,0,0,24,38
+BARTON,preschool,84,94,94,2,0
+BARTON,school age program,148,136,228,4,2
+BOURBON,child care centers,38,65,78,1,1
+BOURBON,licesned family/group,158,181,218,0,1
+BOURBON,head start,17,17,17,13,16
+BOURBON,preschool,61,34,34,0,0
+BOURBON,school age program,0,0,0,0,0
+BROWN,child care centers,68,73,73,1,1
+BROWN,licesned family/group,150,176,204,0,2
+BROWN,head start,37,40,40,9,18
+BROWN,preschool,22,24,24,0,0
+BROWN,school age program,24,24,24,0,0
+BUTLER,child care centers,512,505,549,9,5
+BUTLER,licesned family/group,434,470,594,0,2
+BUTLER,head start,71,68,95,29,39
+BUTLER,preschool,102,102,136,0,0
+BUTLER,school age program,195,462,621,9,1
+CHASE,child care centers,0,0,0,0,0
+CHASE,licesned family/group,48,49,52,0,0
+CHASE,head start,0,0,0,3,2
+CHASE,preschool,0,0,0,0,0
+CHASE,school age program,0,0,0,0,0
+CHAUTAUQUA,child care centers,31,44,44,1,2
+CHAUTAUQUA,licesned family/group,19,20,20,0,0
+CHAUTAUQUA,head start,0,0,0,1,1
+CHAUTAUQUA,preschool,0,0,0,0,0
+CHAUTAUQUA,school age program,0,0,0,0,0
+CHEROKEE,child care centers,112,97,121,3,3
+CHEROKEE,licesned family/group,191,222,254,2,2
+CHEROKEE,head start,79,102,131,17,22
+CHEROKEE,preschool,0,0,0,0,0
+CHEROKEE,school age program,20,40,40,1,1
+CHEYENNE,child care centers,0,0,0,0,0
+CHEYENNE,licesned family/group,48,60,68,0,1
+CHEYENNE,head start,16,17,17,1,6
+CHEYENNE,preschool,0,0,0,0,0
+CHEYENNE,school age program,0,0,0,0,0
+WALLACE,child care centers,0,0,0,0,0
+WALLACE,licesned family/group,30,24,24,0,1
+WALLACE,head start,13,12,12,1,2
+WALLACE,preschool,0,0,0,0,0
+WALLACE,school age program,0,0,0,0,0
+CLARK,child care centers,20,24,24,0,1
+CLARK,licesned family/group,0,0,0,0,0
+CLARK,head start,0,0,0,0,0
+CLARK,preschool,0,0,0,0,0
+CLARK,school age program,0,0,0,0,0
+CLAY,child care centers,0,0,0,0,1
+CLAY,licesned family/group,172,202,238,0,0
+CLAY,head start,0,0,0,9,14
+CLAY,preschool,25,48,64,0,0
+CLAY,school age program,0,0,0,0,0
+CLOUD,child care centers,54,67,83,3,3
+CLOUD,licesned family/group,168,190,232,0,0
+CLOUD,head start,0,0,0,12,17
+CLOUD,preschool,68,38,46,0,0
+CLOUD,school age program,216,85,120,1,1
+COFFEY,child care centers,95,114,118,3,3
+COFFEY,licesned family/group,80,124,128,0,0
+COFFEY,head start,0,0,0,5,8
+COFFEY,preschool,19,33,33,0,0
+COFFEY,school age program,0,0,0,0,0
+COMANCHE,child care centers,0,0,0,0,0
+COMANCHE,licesned family/group,28,22,24,0,0
+COMANCHE,head start,0,0,0,1,2
+COMANCHE,preschool,0,0,0,0,0
+COMANCHE,school age program,0,0,0,0,0
+COWLEY,child care centers,200,361,365,4,3
+COWLEY,licesned family/group,352,434,562,0,0
+COWLEY,head start,0,0,0,33,40
+COWLEY,preschool,0,0,0,0,0
+COWLEY,school age program,0,0,0,0,0
+CRAWFORD,child care centers,565,647,679,6,8
+CRAWFORD,licesned family/group,350,426,502,0,0
+CRAWFORD,head start,0,0,0,27,45
+CRAWFORD,preschool,55,46,56,0,0
+CRAWFORD,school age program,109,162,162,2,0
+DECATUR,child care centers,0,0,0,0,0
+DECATUR,licesned family/group,90,57,68,0,1
+DECATUR,head start,15,18,18,1,5
+DECATUR,preschool,0,0,0,0,0
+DECATUR,school age program,0,0,0,0,0
+DICKINSON,child care centers,174,247,297,6,6
+DICKINSON,licesned family/group,206,223,246,0,0
+DICKINSON,head start,0,0,0,9,17
+DICKINSON,preschool,39,55,55,1,0
+DICKINSON,school age program,0,0,0,0,0
+DONIPHAN,child care centers,41,59,59,1,1
+DONIPHAN,licesned family/group,65,78,94,0,0
+DONIPHAN,head start,0,0,0,1,3
+DONIPHAN,preschool,0,0,0,0,0
+DONIPHAN,school age program,0,0,0,0,0
+DOUGLAS,child care centers,1386,1732,1951,20,11
+DOUGLAS,licesned family/group,602,707,901,0,2
+DOUGLAS,head start,28,80,80,29,47
+DOUGLAS,preschool,5,119,121,0,2
+DOUGLAS,school age program,1453,1704,4631,0,3
+EDWARDS,child care centers,0,0,0,0,0
+EDWARDS,licesned family/group,42,64,66,0,0
+EDWARDS,head start,0,0,0,1,4
+EDWARDS,preschool,0,0,0,0,0
+EDWARDS,school age program,0,0,0,0,0
+ELK,child care centers,0,0,0,0,0
+ELK,licesned family/group,28,29,34,0,0
+ELK,head start,0,0,0,1,1
+ELK,preschool,0,0,0,0,0
+ELK,school age program,0,0,0,0,0
+ELLIS,child care centers,306,337,346,6,4
+ELLIS,licesned family/group,520,619,864,0,1
+ELLIS,head start,134,105,130,18,54
+ELLIS,preschool,115,58,60,1,0
+ELLIS,school age program,0,30,32,1,1
+ELLSWORTH,child care centers,88,99,99,1,1
+ELLSWORTH,licesned family/group,68,71,106,0,0
+ELLSWORTH,head start,0,0,0,3,7
+ELLSWORTH,preschool,43,21,21,0,0
+ELLSWORTH,school age program,0,0,0,0,0
+WALLACE,child care centers,0,0,0,0,0
+WALLACE,licesned family/group,30,24,24,0,1
+WALLACE,head start,13,12,12,1,2
+WALLACE,preschool,0,0,0,0,0
+WALLACE,school age program,0,0,0,0,0
+FINNEY,child care centers,199,300,318,5,2
+FINNEY,licesned family/group,345,389,462,1,3
+FINNEY,head start,105,117,124,18,37
+FINNEY,preschool,77,57,71,0,0
+FINNEY,school age program,32,120,120,1,1
+FORD,child care centers,176,197,230,3,1
+FORD,licesned family/group,211,257,322,0,0
+FORD,head start,225,320,320,8,16
+FORD,preschool,12,12,12,0,0
+FORD,school age program,27,80,80,1,1
+FRANKLIN,child care centers,129,163,213,2,1
+FRANKLIN,licesned family/group,234,288,346,0,1
+FRANKLIN,head start,38,40,40,13,14
+FRANKLIN,preschool,46,50,50,0,0
+FRANKLIN,school age program,0,0,0,0,0
+GEARY,child care centers,258,348,388,5,2
+GEARY,licesned family/group,157,209,256,0,0
+GEARY,head start,0,0,0,15,15
+GEARY,preschool,12,17,22,0,0
+GEARY,school age program,0,0,0,0,0
+GOVE,child care centers,49,27,27,1,1
+GOVE,licesned family/group,57,64,76,0,0
+GOVE,head start,0,0,0,1,2
+GOVE,preschool,17,17,17,0,0
+GOVE,school age program,0,0,0,0,0
+GRAHAM,child care centers,0,0,0,0,0
+GRAHAM,licesned family/group,67,79,84,0,1
+GRAHAM,head start,24,32,32,3,7
+GRAHAM,preschool,0,0,0,0,0
+GRAHAM,school age program,0,0,0,0,0
+GRANT,child care centers,0,0,0,0,0
+GRANT,licesned family/group,114,122,148,0,2
+GRANT,head start,34,35,35,6,11
+GRANT,preschool,36,12,12,0,0
+GRANT,school age program,0,0,0,0,0
+GRAY,child care centers,28,28,42,0,0
+GRAY,licesned family/group,60,65,72,0,0
+GRAY,head start,10,10,10,3,7
+GRAY,preschool,0,0,0,0,0
+GRAY,school age program,0,0,0,0,0
+GREELEY,child care centers,0,0,0,0,0
+GREELEY,licesned family/group,41,44,48,0,0
+GREELEY,head start,0,0,0,3,3
+GREELEY,preschool,0,0,0,0,0
+GREELEY,school age program,0,0,0,0,0
+GREENWOOD,child care centers,0,0,0,0,0
+GREENWOOD,licesned family/group,89,100,104,0,0
+GREENWOOD,head start,0,0,0,6,10
+GREENWOOD,preschool,0,0,0,0,0
+GREENWOOD,school age program,0,0,0,0,0
+HAMILTON,child care centers,0,0,0,0,0
+HAMILTON,licesned family/group,27,24,32,0,0
+HAMILTON,head start,0,0,0,1,3
+HAMILTON,preschool,50,28,38,2,0
+HAMILTON,school age program,0,0,0,0,0
+HARPER,child care centers,25,24,36,1,1
+HARPER,licesned family/group,65,87,94,0,1
+HARPER,head start,19,15,20,5,8
+HARPER,preschool,32,35,35,0,0
+HARPER,school age program,0,0,0,0,0
+HARVEY,child care centers,155,135,137,2,1
+HARVEY,licesned family/group,208,241,288,0,0
+HARVEY,head start,0,0,0,15,17
+HARVEY,preschool,121,83,87,0,1
+HARVEY,school age program,175,575,616,6,2
+HASKELL,child care centers,0,0,0,0,1
+HASKELL,licesned family/group,24,32,32,0,0
+HASKELL,head start,0,0,0,0,1
+HASKELL,preschool,0,0,0,0,0
+HASKELL,school age program,0,0,0,0,0
+HODGEMAN,child care centers,0,0,0,0,0
+HODGEMAN,licesned family/group,22,22,34,0,0
+HODGEMAN,head start,0,0,0,2,3
+HODGEMAN,preschool,12,24,24,0,0
+HODGEMAN,school age program,0,0,0,0,0
+JACKSON,child care centers,58,46,46,1,1
+JACKSON,licesned family/group,247,278,314,0,0
+JACKSON,head start,0,0,0,11,17
+JACKSON,preschool,22,20,20,0,0
+JACKSON,school age program,17,90,90,1,0
+JEFFERSON,child care centers,167,199,241,3,2
+JEFFERSON,licesned family/group,130,209,232,0,1
+JEFFERSON,head start,17,17,20,7,15
+JEFFERSON,preschool,6,8,10,0,0
+JEFFERSON,school age program,24,24,24,0,1
+JEWELL,child care centers,0,0,0,0,0
+JEWELL,licesned family/group,57,53,56,0,0
+JEWELL,head start,0,0,0,3,4
+JEWELL,preschool,0,0,0,0,0
+JEWELL,school age program,0,0,0,0,0
+JOHNSON,child care centers,11936,15533,18007,101,35
+JOHNSON,licesned family/group,2302,2794,4009,1,1
+JOHNSON,head start,157,145,184,66,211
+JOHNSON,preschool,146,169,173,4,0
+JOHNSON,school age program,6042,7874,15585,130,7
+KEARNY,child care centers,0,0,0,0,0
+KEARNY,licesned family/group,85,97,120,0,0
+KEARNY,head start,0,0,0,0,8
+KEARNY,preschool,0,0,0,0,0
+KEARNY,school age program,0,0,0,0,0
+KINGMAN,child care centers,24,24,24,1,0
+KINGMAN,licesned family/group,108,129,138,0,0
+KINGMAN,head start,0,0,0,6,6
+KINGMAN,preschool,0,0,0,0,0
+KINGMAN,school age program,0,0,0,0,0
+KIOWA,child care centers,24,23,23,0,0
+KIOWA,licesned family/group,35,40,40,0,0
+KIOWA,head start,0,0,0,2,1
+KIOWA,preschool,0,0,0,0,0
+KIOWA,school age program,0,0,0,0,0
+LABETTE,child care centers,116,177,187,2,2
+LABETTE,licesned family/group,404,501,538,0,2
+LABETTE,head start,45,35,35,33,46
+LABETTE,preschool,0,0,0,0,0
+LABETTE,school age program,0,0,0,0,0
+LANE,child care centers,0,0,0,0,0
+LANE,licesned family/group,39,40,46,0,0
+LANE,head start,0,0,0,1,4
+LANE,preschool,0,0,0,0,0
+LANE,school age program,0,0,0,0,0
+LEAVENWORTH,child care centers,923,1360,1543,17,9
+LEAVENWORTH,licesned family/group,464,518,654,0,1
+LEAVENWORTH,head start,20,40,40,34,30
+LEAVENWORTH,preschool,57,379,383,0,1
+LEAVENWORTH,school age program,355,474,755,6,3
+LINCOLN,child care centers,0,0,0,0,0
+LINCOLN,licesned family/group,44,40,46,0,0
+LINCOLN,head start,0,0,0,2,4
+LINCOLN,preschool,0,0,0,0,0
+LINCOLN,school age program,0,0,0,0,0
+LINN,child care centers,0,0,0,0,0
+LINN,licesned family/group,81,98,112,0,0
+LINN,head start,0,0,0,8,10
+LINN,preschool,0,0,0,0,0
+LINN,school age program,0,0,0,0,0
+LOGAN,child care centers,0,0,0,0,0
+LOGAN,licesned family/group,68,78,102,0,1
+LOGAN,head start,15,17,24,2,6
+LOGAN,preschool,32,24,24,0,0
+LOGAN,school age program,0,0,0,0,0
+LYON,child care centers,354,364,397,5,5
+LYON,licesned family/group,298,335,436,0,1
+LYON,head start,80,80,80,22,34
+LYON,preschool,93,68,68,0,0
+LYON,school age program,498,765,2245,1,3
+MARION,child care centers,44,77,77,2,1
+MARION,licesned family/group,89,110,122,0,1
+MARION,head start,29,26,26,6,7
+MARION,preschool,17,22,22,0,0
+MARION,school age program,0,0,0,0,0
+MARSHALL,child care centers,0,0,0,0,0
+MARSHALL,licesned family/group,301,345,408,0,0
+MARSHALL,head start,0,0,0,12,28
+MARSHALL,preschool,26,20,20,0,0
+MARSHALL,school age program,49,49,49,1,0
+MCPHERSON,child care centers,447,528,584,6,3
+MCPHERSON,licesned family/group,170,177,224,0,1
+MCPHERSON,head start,142,159,156,10,15
+MCPHERSON,preschool,35,42,47,0,0
+MCPHERSON,school age program,108,188,240,4,0
+MEADE,child care centers,0,0,0,0,0
+MEADE,licesned family/group,50,70,70,0,0
+MEADE,head start,0,0,0,5,5
+MEADE,preschool,0,0,0,0,0
+MEADE,school age program,0,0,0,0,0
+MIAMI,child care centers,289,336,336,3,3
+MIAMI,licesned family/group,364,391,460,0,1
+MIAMI,head start,18,20,20,23,31
+MIAMI,preschool,82,33,53,0,0
+MIAMI,school age program,0,0,0,0,0
+MITCHELL,child care centers,77,89,108,3,2
+MITCHELL,licesned family/group,120,110,130,0,0
+MITCHELL,head start,0,0,0,3,5
+MITCHELL,preschool,7,12,12,0,0
+MITCHELL,school age program,27,30,30,1,0
+MONTGOMERY,child care centers,337,339,339,4,4
+MONTGOMERY,licesned family/group,276,368,433,0,1
+MONTGOMERY,head start,17,17,20,21,35
+MONTGOMERY,preschool,23,16,24,0,0
+MONTGOMERY,school age program,55,140,315,2,2
+MORRIS,child care centers,65,66,84,1,1
+MORRIS,licesned family/group,74,91,112,0,0
+MORRIS,head start,0,0,0,4,6
+MORRIS,preschool,0,0,0,0,0
+MORRIS,school age program,40,162,162,0,0
+MORTON,child care centers,0,0,0,0,0
+MORTON,licesned family/group,21,21,30,0,0
+MORTON,head start,0,0,0,1,1
+MORTON,preschool,0,0,0,0,0
+MORTON,school age program,0,0,0,0,0
+NEMAHA,child care centers,145,175,251,1,2
+NEMAHA,licesned family/group,206,219,274,0,1
+NEMAHA,head start,17,17,20,6,14
+NEMAHA,preschool,96,52,54,0,0
+NEMAHA,school age program,0,0,0,0,0
+NEOSHO,child care centers,73,78,78,3,3
+NEOSHO,licesned family/group,271,318,356,0,1
+NEOSHO,head start,15,20,20,19,29
+NEOSHO,preschool,25,24,24,0,0
+NEOSHO,school age program,0,0,0,0,0
+NESS,child care centers,0,0,0,0,0
+NESS,licesned family/group,63,73,82,0,0
+NESS,head start,0,0,0,4,8
+NESS,preschool,0,0,0,0,0
+NESS,school age program,0,0,0,0,0
+NORTON,child care centers,100,101,113,2,1
+NORTON,licesned family/group,83,83,100,0,1
+NORTON,head start,17,17,20,6,9
+NORTON,preschool,0,0,0,0,0
+NORTON,school age program,0,0,0,0,0
+OSAGE,child care centers,57,60,60,1,1
+OSAGE,licesned family/group,222,261,292,0,0
+OSAGE,head start,0,0,0,12,22
+OSAGE,preschool,0,12,15,0,0
+OSAGE,school age program,0,60,60,0,0
+OSBORNE,child care centers,0,0,0,0,0
+OSBORNE,licesned family/group,73,78,84,0,0
+OSBORNE,head start,0,0,0,4,5
+OSBORNE,preschool,0,0,0,0,0
+OSBORNE,school age program,0,0,0,0,0
+OTTAWA,child care centers,0,0,0,0,0
+OTTAWA,licesned family/group,159,171,194,0,1
+OTTAWA,head start,14,12,14,5,15
+OTTAWA,preschool,86,69,99,0,0
+OTTAWA,school age program,0,60,60,0,1
+PAWNEE,child care centers,32,35,44,1,0
+PAWNEE,licesned family/group,103,104,112,0,0
+PAWNEE,head start,0,0,0,2,9
+PAWNEE,preschool,0,0,0,0,0
+PAWNEE,school age program,0,0,0,0,0
+PHILLIPS,child care centers,41,55,55,1,1
+PHILLIPS,licesned family/group,118,120,148,0,0
+PHILLIPS,head start,0,0,0,9,9
+PHILLIPS,preschool,39,24,24,0,0
+PHILLIPS,school age program,0,0,0,0,0
+POTTAWATOMIE,child care centers,261,335,345,5,1
+POTTAWATOMIE,licesned family/group,298,356,454,0,1
+POTTAWATOMIE,head start,14,15,17,13,21
+POTTAWATOMIE,preschool,0,0,0,0,0
+POTTAWATOMIE,school age program,242,400,530,0,3
+PRATT,child care centers,24,50,50,1,0
+PRATT,licesned family/group,112,125,150,0,0
+PRATT,head start,0,0,0,4,11
+PRATT,preschool,0,0,0,0,0
+PRATT,school age program,0,0,0,0,0
+RAWLINS,child care centers,0,0,0,0,0
+RAWLINS,licesned family/group,48,60,66,0,1
+RAWLINS,head start,13,17,17,1,5
+RAWLINS,preschool,0,0,0,0,0
+RAWLINS,school age program,0,0,0,0,0
+RENO,child care centers,341,458,487,13,9
+RENO,licesned family/group,406,481,584,0,0
+RENO,head start,0,0,0,29,40
+RENO,preschool,24,24,29,0,0
+RENO,school age program,362,637,847,1,1
+REPUBLIC,child care centers,0,0,0,0,0
+REPUBLIC,licesned family/group,128,147,166,0,1
+REPUBLIC,head start,14,15,19,7,10
+REPUBLIC,preschool,0,0,0,0,0
+REPUBLIC,school age program,8,48,48,0,1
+RICE,child care centers,171,194,202,3,3
+RICE,licesned family/group,18,25,30,0,0
+RICE,head start,0,0,0,2,2
+RICE,preschool,9,10,15,0,0
+RICE,school age program,35,40,45,0,0
+RILEY,child care centers,606,707,917,7,5
+RILEY,licesned family/group,405,525,684,0,0
+RILEY,head start,0,0,0,17,33
+RILEY,preschool,0,10,10,0,0
+RILEY,school age program,966,1480,2004,1,5
+ROOKS,child care centers,24,28,30,1,0
+ROOKS,licesned family/group,125,104,118,0,0
+ROOKS,head start,0,0,0,4,10
+ROOKS,preschool,0,0,0,0,0
+ROOKS,school age program,16,25,25,1,0
+RUSH,child care centers,36,48,48,2,0
+RUSH,licesned family/group,20,28,34,0,0
+RUSH,head start,0,0,0,4,3
+RUSH,preschool,0,0,0,0,0
+RUSH,school age program,0,0,0,0,0
+RUSSELL,child care centers,23,23,23,1,0
+RUSSELL,licesned family/group,162,182,212,0,0
+RUSSELL,head start,0,0,0,5,19
+RUSSELL,preschool,24,12,12,0,0
+RUSSELL,school age program,0,0,0,0,0
+SALINE,child care centers,369,433,694,10,9
+SALINE,licesned family/group,796,853,1026,0,0
+SALINE,head start,0,0,0,38,90
+SALINE,preschool,228,154,164,0,0
+SALINE,school age program,237,449,589,1,6
+SCOTT,child care centers,0,0,0,0,0
+SCOTT,licesned family/group,107,107,138,0,0
+SCOTT,head start,0,0,0,6,13
+SCOTT,preschool,70,45,45,0,0
+SCOTT,school age program,0,0,0,0,0
+SEDGWICK,child care centers,6687,8148,8882,82,65
+SEDGWICK,licesned family/group,2564,3321,4338,0,3
+SEDGWICK,head start,235,292,336,243,269
+SEDGWICK,preschool,947,780,833,0,1
+SEDGWICK,school age program,6098,8776,11921,85,75
+SEWARD,child care centers,120,188,188,1,1
+SEWARD,licesned family/group,75,98,110,0,2
+SEWARD,head start,78,82,101,3,8
+SEWARD,preschool,0,0,0,0,0
+SEWARD,school age program,0,0,0,0,0
+SHAWNEE,child care centers,1792,2587,2827,36,23
+SHAWNEE,licesned family/group,1464,1892,2252,1,2
+SHAWNEE,head start,379,345,353,108,134
+SHAWNEE,preschool,48,45,45,1,0
+SHAWNEE,school age program,2205,2748,3792,18,10
+SHERIDAN,child care centers,0,0,0,0,0
+SHERIDAN,licesned family/group,76,80,92,0,0
+SHERIDAN,head start,0,0,0,0,7
+SHERIDAN,preschool,60,33,44,0,0
+SHERIDAN,school age program,0,0,0,0,0
+SHERMAN,child care centers,0,0,0,0,0
+SHERMAN,licesned family/group,104,105,116,0,1
+SHERMAN,head start,84,90,90,4,9
+SHERMAN,preschool,0,0,12,0,0
+SHERMAN,school age program,0,0,0,0,0
+SMITH,child care centers,11,53,57,1,1
+SMITH,licesned family/group,82,67,78,0,0
+SMITH,head start,0,0,0,5,3
+SMITH,preschool,26,12,12,0,0
+SMITH,school age program,0,0,0,0,0
+STAFFORD,child care centers,0,0,0,0,0
+STAFFORD,licesned family/group,54,58,70,0,0
+STAFFORD,head start,0,0,0,2,3
+STAFFORD,preschool,0,0,0,0,0
+STAFFORD,school age program,0,0,0,0,0
+STANTON,child care centers,0,0,0,0,0
+STANTON,licesned family/group,23,32,36,0,0
+STANTON,head start,0,0,0,1,3
+STANTON,preschool,22,24,27,0,0
+STANTON,school age program,0,0,0,0,0
+STEVENS,child care centers,0,0,0,1,1
+STEVENS,licesned family/group,5,15,20,0,0
+STEVENS,head start,0,0,0,0,1
+STEVENS,preschool,0,0,0,0,0
+STEVENS,school age program,0,0,0,0,0
+SUMNER,child care centers,34,16,95,3,1
+SUMNER,licesned family/group,230,254,324,0,2
+SUMNER,head start,15,75,75,11,22
+SUMNER,preschool,72,58,96,0,1
+SUMNER,school age program,0,0,0,0,0
+THOMAS,child care centers,80,109,109,1,0
+THOMAS,licesned family/group,189,191,220,0,1
+THOMAS,head start,34,48,48,6,13
+THOMAS,preschool,101,44,44,0,0
+THOMAS,school age program,0,0,0,0,0
+TREGO,child care centers,50,59,59,1,1
+TREGO,licesned family/group,16,18,20,0,0
+TREGO,head start,0,0,0,0,2
+TREGO,preschool,0,0,0,0,0
+TREGO,school age program,8,30,30,1,1
+WABAUNSEE,child care centers,130,179,179,3,1
+WABAUNSEE,licesned family/group,37,43,54,0,0
+WABAUNSEE,head start,0,0,0,3,3
+WABAUNSEE,preschool,0,0,0,0,0
+WABAUNSEE,school age program,0,0,0,0,0
+WALLACE,child care centers,0,0,0,0,0
+WALLACE,licesned family/group,30,24,24,0,1
+WALLACE,head start,13,12,12,1,2
+WALLACE,preschool,0,0,0,0,0
+WALLACE,school age program,0,0,0,0,0
+WASHINGTON,child care centers,0,0,0,0,0
+WASHINGTON,licesned family/group,193,199,222,0,1
+WASHINGTON,head start,12,15,40,6,17
+WASHINGTON,preschool,36,40,40,0,0
+WASHINGTON,school age program,0,0,0,0,0
+WICHITA,child care centers,29,35,42,1,0
+WICHITA,licesned family/group,2,5,10,0,0
+WICHITA,head start,0,0,0,0,0
+WICHITA,preschool,0,0,0,0,0
+WICHITA,school age program,0,0,0,0,0
+WILSON,child care centers,58,66,82,1,1
+WILSON,licesned family/group,72,79,82,0,0
+WILSON,head start,0,0,0,4,8
+WILSON,preschool,0,0,0,0,0
+WILSON,school age program,0,0,0,0,0
+WOODSON,child care centers,0,0,0,0,0
+WOODSON,licesned family/group,47,73,86,0,0
+WOODSON,head start,0,0,0,1,4
+WOODSON,preschool,0,0,0,0,0
+WOODSON,school age program,0,0,0,0,0
+WYANDOTTE,child care centers,1209,1768,1887,25,16
+WYANDOTTE,licesned family/group,517,706,864,0,0
+WYANDOTTE,head start,0,0,0,48,46
+WYANDOTTE,preschool,18,18,18,0,0
+WYANDOTTE,school age program,1127,1737,2507,16,3
